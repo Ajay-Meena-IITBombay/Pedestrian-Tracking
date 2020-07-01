@@ -6,4 +6,4 @@ Demo of our method.
 ![](https://media.giphy.com/media/Xc9ldhhZfX5HRowyvI/giphy.gif)
 
 ## Usage
-python demo_final "path_to_video"
+python demo_final.py "path_to_video"
