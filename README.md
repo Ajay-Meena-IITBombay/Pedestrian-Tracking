@@ -5,4 +5,3 @@ Demo of our method.
 
 ![](https://media.giphy.com/media/Xc9ldhhZfX5HRowyvI/giphy.gif)
 
-This work is in progress!
